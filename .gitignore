@@ -4,4 +4,5 @@
 /app/css/
 /**/*.psd
 /**/Thumbs.db
+/**/package-lock.json
 /**/*.DS_Store
